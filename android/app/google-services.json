@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582003499202",
+    "project_id": "tirynski-d9a08",
+    "storage_bucket": "tirynski-d9a08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582003499202:android:8c865b61cf176b2d3edb5b",
+        "android_client_info": {
+          "package_name": "com.example.tirynsik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582003499202-v898bd6nfbba3ohhnbggi98akk25pchn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSV7O3Mn9bjGlBuAh_B9mTLwqNwQT2oEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582003499202-v898bd6nfbba3ohhnbggi98akk25pchn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
